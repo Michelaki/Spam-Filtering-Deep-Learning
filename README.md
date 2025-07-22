@@ -1,7 +1,7 @@
 # Spam-Filtering-Deep-Learning
 The main goal of this project is to apply Deep Learning methods in the context of a Spam Filter Application.
 
-The csv file contains related information of 5172 randomly picked email files and their
+The data file contains related information of 5172 randomly picked email files and their
 respective labels for spam or not-spam classification.
 The csv file contains 5172 rows, each row for each email. There are 3002 columns. The first
 column indicates Email name. The name has been set with numbers and not recipients' name
